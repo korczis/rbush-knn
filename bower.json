@@ -1,0 +1,27 @@
+{
+  "name": "rbush-knn",
+  "main": "index.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/korczis/rbush-knn",
+  "authors": [
+    "Tomas Korcak <korczis@gmail.com>"
+  ],
+  "description": "k-nearest neighbors search (KNN) for RBush",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "rbush",
+    "knn",
+    "k-nearest",
+    "neighbors"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
